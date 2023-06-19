@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { getProducts } from "./api/Product/page";
+import { getProducts } from "./api/Product/api";
 import Link from 'next/link';
 
 

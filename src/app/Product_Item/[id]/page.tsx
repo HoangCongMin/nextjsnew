@@ -1,5 +1,5 @@
 import React from "react";
-import { getProducts_item } from "../../api/Product/page";
+import { getProducts_item } from "../../api/Product/api";
 import Head from "next/head";
 import {  ResolvingMetadata  ,type Metadata} from 'next'
 
